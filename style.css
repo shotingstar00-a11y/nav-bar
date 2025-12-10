@@ -38,6 +38,9 @@ header {
   color: #3a3845;
   cursor: pointer;
 }
+.nav a:hover {
+  color: blue;
+}
 
 .logo {
   display: flex;
@@ -61,6 +64,7 @@ header {
   height: 20px;
   cursor: pointer;
 }
+
 .shoping-cart {
   display: none;
 }
