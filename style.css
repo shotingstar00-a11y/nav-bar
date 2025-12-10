@@ -28,6 +28,7 @@ header {
 }
 .nav a {
   text-decoration: none;
+  cursor: pointer;
 
   font-family: Inter;
   font-weight: 400;
@@ -58,6 +59,8 @@ header {
 .icon img {
   width: 20px;
   height: 20px;
+    cursor: pointer;
+
 }
 .shoping-cart {
   display: none;
@@ -95,5 +98,6 @@ header {
     display: flex;
   }
 }
+
 
 
