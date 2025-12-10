@@ -28,7 +28,6 @@ header {
 }
 .nav a {
   text-decoration: none;
-  cursor: pointer;
 
   font-family: Inter;
   font-weight: 400;
@@ -37,6 +36,7 @@ header {
   line-height: 22px;
   letter-spacing: 0%;
   color: #3a3845;
+  cursor: pointer;
 }
 
 .logo {
@@ -59,8 +59,7 @@ header {
 .icon img {
   width: 20px;
   height: 20px;
-    cursor: pointer;
-
+  cursor: pointer;
 }
 .shoping-cart {
   display: none;
@@ -98,6 +97,3 @@ header {
     display: flex;
   }
 }
-
-
-
